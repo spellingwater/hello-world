@@ -1,2 +1,2 @@
-# super-couscous
+# hello-world
 Just another repository
